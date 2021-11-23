@@ -34,6 +34,11 @@ html, body {margin: 0; height: 100%; overflow: hidden}
     flex-wrap: wrap;
 }
 
+#about {
+    align-content: center;
+    text-align: center;
+}
+
 .link {
     color:white;
     text-decoration: none;
